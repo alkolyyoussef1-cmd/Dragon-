@@ -1,0 +1,6 @@
+{
+  "name": "DRAGON STORE AI",
+  "description": "Official DRAGON STORE digital services store, AI customer assistant, order manager and admin control engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
